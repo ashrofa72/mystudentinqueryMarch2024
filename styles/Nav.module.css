@@ -10,7 +10,7 @@
   /*background:#85586F;*/
   /* This is a comment explaining the purpose of this div */
   height: 3rem;
-  background-color: rgb(243, 155, 48);
+  background-color: rgb(136, 11, 48);
 }
 .nav li {
   list-style: none;
@@ -31,7 +31,7 @@
   justify-content: center;
   align-items: center;
   margin-right: 10px;
-  color: rgb(95, 6, 6);
+  color: rgb(252, 251, 251);
   font-weight: bolder;
   font-size: 20px;
 }
